@@ -440,6 +440,48 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>Memory</key>
+		<dict>
+			<key>Channels</key>
+			<integer>1</integer>
+			<key>Modules</key>
+			<array>
+				<dict>
+					<key>Frequency</key>
+					<integer>2666</integer>
+					<key>Part</key>
+					<string>16ATF4G64HZ-2G6B2</string>
+					<key>Serial</key>
+					<string>Unknown</string>
+					<key>Size</key>
+					<integer>32768</integer>
+					<key>Slot</key>
+					<integer>0</integer>
+					<key>Type</key>
+					<string>DDR4</string>
+					<key>Vendor</key>
+					<string>Micron</string>
+				</dict>
+				<dict>
+					<key>Frequency</key>
+					<integer>2666</integer>
+					<key>Part</key>
+					<string>16ATF4G64HZ-2G6B2</string>
+					<key>Serial</key>
+					<string>Unknown</string>
+					<key>Size</key>
+					<integer>32768</integer>
+					<key>Slot</key>
+					<integer>1</integer>
+					<key>Type</key>
+					<string>DDR4</string>
+					<key>Vendor</key>
+					<string>Micron</string>
+				</dict>
+			</array>
+			<key>SlotCount</key>
+			<integer>2</integer>
+		</dict>
 		<key>ProductName</key>
 		<string>MacBookPro15,2</string>
 		<key>Trust</key>
